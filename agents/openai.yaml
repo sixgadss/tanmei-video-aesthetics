@@ -1,0 +1,4 @@
+interface:
+  display_name: "谈美 · 视频审美"
+  short_description: "以朱光潜《谈美》指导视频构思、镜头与声音，让情感形成可感知的完整意境"
+  default_prompt: "用 $tanmei-video-aesthetics 指导这支视频的构思、生成提示词与审片，保留我指定的风格。"
